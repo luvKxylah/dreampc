@@ -10,8 +10,8 @@ export default function App({ Component, pageProps }: AppProps) {
         </main>
 
         <footer className="mx-auto mt-20 max-w-3xl border-t-2 border-white/10 p-4 py-10 opacity-50">
-          <h1 className="text-3xl font-bold">Kayla</h1>
-          <p>Software Engineer • {new Date().getFullYear()}</p>
+          <h1 className="text-3xl font-bold">Diogo Castro</h1>
+          <p>EPM • {new Date().getFullYear()}</p>
         </footer>
       </div>
     </>
